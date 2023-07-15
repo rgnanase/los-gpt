@@ -1,0 +1,12 @@
+langchain
+chromadb
+pypdf
+sentence_transformers
+gpt4all
+openai
+tiktoken
+python-dotenv
+nicegui
+auto-gptq
+unstructured
+pdf2image

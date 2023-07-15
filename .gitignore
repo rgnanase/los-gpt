@@ -1,0 +1,7 @@
+.env
+models
+db_local
+db_openai_jn
+.nicegui
+venv
+.idea
